@@ -1,4 +1,4 @@
-### Maurício Pinto
+# Maurício Pinto
 - 🔭 Estudante de Engenharia da Computação
 - 🌱 Atualmente estudando React JS e Next JS
 
