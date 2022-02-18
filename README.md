@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Maurício Pinto
-- 🔭 Atualmente estudo Engenharia da Computação
-- 🌱 Estudando React JS e Next JS
+- 🔭 Estudante de Engenharia da Computação
+- 🌱 Atualmente estudando React JS e Next JS
 
 <div align="center">
   <a href="https://github.com/mauriciotp">
