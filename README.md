@@ -1,4 +1,4 @@
-### Olá! Meu nome é Maurício Pinto
+### Maurício Pinto
 - 🔭 Estudante de Engenharia da Computação
 - 🌱 Atualmente estudando React JS e Next JS
 
@@ -15,7 +15,6 @@
   <img align="center" alt="Mauricio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mauricio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mauricio-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
-  <img align="right" alt="Mauricio-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/82242064?v=4">
 </div>
   
 ##
