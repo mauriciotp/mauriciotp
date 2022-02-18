@@ -1,5 +1,5 @@
 # Maurício Pinto
-- 🔭 Undergraduate, Computer Engineering
+- 🔭 Working on Front-End Development
 - 🌱 Currently studying React JS and Next JS
 
 <div align="center">
