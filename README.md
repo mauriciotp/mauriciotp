@@ -1,6 +1,6 @@
 # Maurício Pinto
-- 🔭 Estudante de Engenharia da Computação
-- 🌱 Atualmente estudando React JS e Next JS
+- 🔭 Undergraduate, Computer Engineering
+- 🌱 Currently studying React JS and Next JS
 
 <div align="center">
   <a href="https://github.com/mauriciotp">
