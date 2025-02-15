@@ -1,6 +1,7 @@
 # Maurício Pinto
-- 🔭 Working on Front-End Development
-- 🌱 Currently studying React JS and Next JS
+- 🎓 Bachelor of Science in Computer Engineering at the [Federal University of Pará](https://ufpa.br/)
+- 🏢💻 Blockchain Developer at [@CPQD](https://www.linkedin.com/company/cpqd/posts/?feedView=all).
+- 🛠️💻 Currently working on DApps with Hyperledger Besu, and trying to learn more about this universe 🚀.
 
 <div align="center">
   <a href="https://github.com/mauriciotp">
@@ -15,6 +16,7 @@
   <img align="center" alt="Mauricio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mauricio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mauricio-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Mauricio-Solidity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/solidity/solidity-original.svg" />
 </div>
   
 ##
